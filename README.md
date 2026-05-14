@@ -22,7 +22,7 @@ It is a **reimplementation of NT design ideas** on top of the Linux kernel:
 
 ## License
 
-Copyright © 2026 Linux/OS Studio. All rights reserved.  
+Copyright © 2026 LinuxNT/OS Studio. All rights reserved.  
 (We will choose an open source license later.)
 
 ## Join
